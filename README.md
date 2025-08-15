@@ -17,7 +17,7 @@ QuantumHealth++ demonstrates how cutting-edge AI and quantum-assisted analytics 
 - Early detection alerts for potential health risks  
 - Personalized AI-generated health tips  
 - Weekly activity tracking (steps, calories, distance)  
-- Quantum-assisted health plan generator (simulated)  
+- Quantum-assisted health plan generator
 - AI-powered chatbot support  
 
 ---
@@ -40,9 +40,8 @@ Even as a demo, QuantumHealth++ follows core principles of secure and ethical AI
 - **Frontend:** React (JavaScript)  
 - **Styling:** Tailwind CSS  
 - **State Management:** React Hooks / Context API  
-- **Simulation Data:** Mock APIs and local JSON  
-- **AI Simulation:** Placeholder logic representing Azure AI and quantum computing models  
-- **Deployment:** *(Add here if deployed, e.g., Vercel, Netlify)*  
+- **Simulation Data:** Mock APIs and local JSON   
+- **Deployment:** *Firebase*  
 
 ---
 
