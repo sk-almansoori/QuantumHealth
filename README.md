@@ -3,6 +3,9 @@
 QuantumHealth++ is a React-based demo of a secure, AI-powered healthcare platform that integrates Azure AI, quantum computing, and simulated real-time wearable data to demonstrate the future of personalized and predictive healthcare.
 
 🏆 **Winner – Imagine Cup Junior Competition**  
+
+![Certificate](./Certificate/Cert.png)
+
 ⚠ **Note:** This is not a full production-ready system. It is a proof-of-concept showcasing core concepts, UI flow, and simulated AI capabilities.
 
 ---
@@ -37,7 +40,7 @@ Even as a demo, QuantumHealth++ follows core principles of secure and ethical AI
 
 ## 🖥 Tech Stack
 
-- **Frontend:** React (JavaScript)  
+- **Frontend:** React (Typescript)  
 - **Styling:** Tailwind CSS  
 - **State Management:** React Hooks / Context API  
 - **Simulation Data:** Mock APIs and local JSON   
